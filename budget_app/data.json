@@ -1,0 +1,162 @@
+[
+  {
+    "category":"Emergency Fund",
+    "description":"April Deposit",
+    "name":"Payment",
+    "amount":200
+  },
+
+  {
+    "category":"Emergency Fund",
+    "description":"May Deposit",
+    "name":"Payment",
+    "amount":200
+  },
+
+  {
+  "category":"Emergency Fund",
+  "description":"June Deposit",
+  "name":"Payment",
+  "amount":200
+  },
+
+  {
+    "category":"Housing",
+    "description":"Mortgage",
+    "name":"Rent",
+    "amount":1000
+  },
+
+  {
+    "category":"Housing",
+    "description":"HOA",
+    "name":"Rent",
+    "amount":301.73
+  },
+
+  {
+    "category":"Housing",
+    "description":"Escrow",
+    "name":"Rent",
+    "amount":65
+  },
+
+  {
+    "category":"Housing",
+    "description":"Insurance",
+    "name":"Rent",
+    "amount":30
+  },
+
+  {
+    "category":"Savings",
+    "description":"Pay yourself for February",
+    "name":"Pay Day From Myself to Myself",
+    "amount":500
+  },
+
+  {
+    "category":"Savings",
+    "description":"Pay yourself for April",
+    "name":"Pay Day From Myself to Myself",
+    "amount":500
+  },
+
+  {
+    "category":"Savings",
+    "description":"Pay yourself for May",
+    "name":"Pay Day From Myself to Myself",
+    "amount":500
+  },
+
+  {
+    "category":"Utilities",
+    "description":"The power bill for April",
+    "name":"Light bill",
+    "amount":65.78
+  },
+
+  {
+    "category":"Utilities",
+    "description":"The water bill for April",
+    "name":"Water Bill",
+    "amount":15.11
+  },
+
+  {
+    "category":"Utilities",
+    "description":"The internet bill for April",
+    "name":"Internet Bill",
+    "amount":65.43
+  },
+
+  {
+    "category":"Health Care",
+    "description":"Blood Pressure medicine",
+    "name":"Prescription",
+    "amount":15
+  },
+
+  {
+    "category":"Debt",
+    "description":"Car payment for April",
+    "name":"Car Payment",
+    "amount":500
+  },
+
+  {
+    "category":"Food and Groceries",
+    "description":"Dinner for three nights",
+    "name":"Grocery Shopping",
+    "amount":42.41
+  },
+
+  {
+    "category":"Food and Groceries",
+    "description":"Brunch with friends",
+    "name":"Brunch",
+    "amount":17.91
+  },
+
+  {
+    "category":"Food and Groceries",
+    "description":"Splurge on ice cream",
+    "name":"Grocery Shopping",
+    "amount":14.52
+  },
+
+  {
+    "category":"Personal Care",
+    "description":"Hair cut for April",
+    "name":"Hair cut",
+    "amount":15
+  },
+
+  {
+    "category":"Personal Care",
+    "description":"Bought a new Iron Maiden concert t-shirt",
+    "name":"Clothing",
+    "amount":20
+  },
+
+  {
+    "category":"Entertainment",
+    "description":"Saw Civil War",
+    "name":"Movies",
+    "amount":26.84
+  },
+
+  {
+    "category":"Entertainment",
+    "description":"Plane ticket to go see Iron Maiden",
+    "name":"Travel",
+    "amount":412.37
+  },
+
+  {
+    "category":"Entertainment",
+    "description":"Iron Maiden concert ticket",
+    "name":"Concert ticket",
+    "amount":112.47
+  }
+]
